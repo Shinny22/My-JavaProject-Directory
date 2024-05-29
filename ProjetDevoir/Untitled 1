@@ -1,0 +1,5 @@
+2)Pour créer une instance de la classe Produit:il suffit d'appeler le constructeur definit dans la question 1)
+3)toString est une methode de la classe Object qui est la classe mère de toutes les classes Java.Ainsi toutes les classes filles doivent la redefinir pour pouvoir l'utiliser
+8) Entre Entrepot et Produit il existe une relation d'Héritage.
+7)Non on ne peut pas ecrire  Produit phone=new Sensible(" iphone",200000.00),un tel type de constructeur n'a pas été définit.
+11)Pour rendre nos produits exportables à l'etrandger il suffit de signé le contrat.
